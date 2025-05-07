@@ -1,41 +1,65 @@
-DSBDA Assignments
-This repository contains assignments and projects related to Data Science and Big Data Analytics (DSBDA) course.
-Repository Structure
-Shashank
-Contains assignments organized by topic:
+## DSBDA Assignments  
+**Savitribai Phule Pune University (SPPU)**  
+**Third-Year Computer Engineering**  
+**Course:** Data Science and Big Data Analytics  
 
-Data Wrangling
+This repository contains all assignments and projects for the Data Science and Big Data Analytics (DSBDA) course, organized by topic and by contributor.
 
-1_DataWrangling_1: Basic data cleaning and preparation techniques
-2_DataWrangling_2: Advanced data transformation methods
+---
 
+## Table of Contents
 
-Descriptive Statistics
-
-3_DescriptiveStatistics: Statistical analysis and summarization of datasets
-
-
-Data Analytics
-
-4_DataAnalytics_1: Fundamental data analysis methods
-5_DataAnalytics_2: Intermediate analysis techniques
-6_DataAnalytics_3: Advanced analytical approaches
-
-
-Text Analysis
-
-7_TextAnalysis: Natural language processing and text mining
+- [Repository Structure](#repository-structure)  
+- [Assignment Topics](#assignment-topics)  
+  - [Data Wrangling](#data-wrangling)  
+  - [Descriptive Statistics](#descriptive-statistics)  
+  - [Data Analytics](#data-analytics)  
+  - [Text Analysis](#text-analysis)  
+  - [Data Visualization](#data-visualization)  
+- [Contributors](#contributors)  
+- [PDF Resources](#pdf-resources)  
+- [Questions](#questions)  
 
 
-Data Visualization
+---
 
-8_DataVisualization_1: Basic visualization techniques
-9_DataVisualization_2: Interactive and advanced visualizations
-10_DataVisualization_3: Complex visualization methods for big data
+## Assignment Topics
 
+### Data Wrangling  
+- **1_DataWrangling_1**: Basic data cleaning & preparation  
+- **2_DataWrangling_2**: Advanced transformation methods  
 
+### Descriptive Statistics  
+- **3_DescriptiveStatistics**: Statistical analysis & summary of datasets  
 
-Ayush
-Contains Ayush's contributions to the assignments and projects.
-PDF
-Collection of reference materials, papers, and documentation in PDF format.
+### Data Analytics  
+- **4_DataAnalytics_1**: Fundamental analysis techniques  
+- **5_DataAnalytics_2**: Intermediate methods  
+- **6_DataAnalytics_3**: Advanced analytical approaches  
+
+### Text Analysis  
+- **7_TextAnalysis**: Natural language processing & text mining  
+
+### Data Visualization  
+- **8_DataVisualization_1**: Basic plotting techniques  
+- **9_DataVisualization_2**: Interactive & advanced visualizations  
+- **10_DataVisualization_3**: Complex visual analytics for big data  
+
+---
+
+## Contributors
+
+- **Ayush**  
+  - All notebooks, scripts, and reports under the `Ayush/` directory.
+
+- **Shashank**  
+  - All notebooks, scripts, and reports under the `Shashank/` directory.
+
+---
+
+## PDF Resources
+
+All supporting PDFs—research papers, datasets documentation, and additional reading—are stored in the `PDF/` folder for easy reference.
+
+---
+
